@@ -34,4 +34,4 @@ Hi, I'm **Mahmoud Gamal Talaat Matter**.
 - Architecting full-stack products at Linkiasoft and Beshara Group.
 - Open for internships and full-stack software engineering opportunities.
 
-**Reach me** through [`Email`](mailto:mahmoud.gamal.matter@gmail.com) · [`LinkedIn`](https://linkedin.com/in/mahmoudmatter) · [`GitHub`](https://github.com/MahmoudMater) · [`Website`](https://mahmoudmatter.tech)
+**Reach me** through [`Email`](mailto:mahmoud.gamal.matter@gmail.com) · [`LinkedIn`](https://linkedin.com/in/mahmoudmatter) · [`Website`](https://mahmoudmatter.tech)
