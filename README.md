@@ -1,6 +1,7 @@
 Hi, I'm **Mahmoud Gamal Talaat Matter**.
 - I architect and ship full-stack products — from auth and APIs to mobile apps and DevOps pipelines.
 - 3rd year Computer Science student at [Helwan National University](http://www.hnu.edu.eg/)
+- Full Stack Engineer at [Beshara Group](https://ebeshara.com) — building React and SprigBoot solutions.
 - Full Stack Engineer at [Linkiasoft](https://linkiasoft.com) — building Next.js, NestJS, and React Native solutions.
 - Building **Polloi** — an AI-powered LMS with adaptive learning paths, gamified certs, and multilingual content.
 - [See my CV](YOUR_CV_LINK_HERE)
