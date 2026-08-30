@@ -6,12 +6,6 @@ Hi, I'm **Mahmoud Gamal Talaat Matter**.
 - Building **Polloi** — an AI-powered LMS with adaptive learning paths, gamified certs, and multilingual content.
 - [See my CV](YOUR_CV_LINK_HERE)
 
-**Projects**
-- [Polloi LMS](YOUR_LINK) → full LMS with AI adaptive learning, interactive code labs, gamified certs, and Arabic/English multilingual support. *(Next.js, NestJS, PostgreSQL, Redis, RabbitMQ)*
-- [EDVA](https://edva.io) → production crypto & fintech platform with quantum-safe auth, sub-second settlement UX, referral system, and MENA-focused multilingual support. *(Next.js, NestJS, PostgreSQL, Redis, Blockchain)*
-- [Debtly](YOUR_LINK) → offline-first Android finance app for debts, savings, and wallets — local-first with SQLite, optional Google sign-in, Firebase push alerts, and SMS bank parsing with Claude Haiku fallback. *(React Native, Expo, SQLite, Zustand, Firebase)*
-- [Tech Torch](https://fcsitsu.site) → 6-platform university ecosystem: public site, admin panel, student portal, LMS, HR system, and API gateway — fully self-hosted with Docker, Grafana, and Prometheus. *(Next.js, NestJS, PostgreSQL, Redis, Docker)*
-- [Linkiasoft CRM](https://linkiasoft.com) → contributed to a CRM system for sales and business workflow management. *(React, NestJS, PostgreSQL, Docker)*
 
 **Building**
 - Full-stack web and mobile products with real users and real traffic.
